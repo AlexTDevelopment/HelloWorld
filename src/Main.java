@@ -8,6 +8,7 @@ public class Main {
         a &= c;
         a &= b;
         a &= c;
+        a &= a;
         System.out.println(a);
     }
 }
