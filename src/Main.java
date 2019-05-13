@@ -12,6 +12,6 @@ public class Main {
         Test t = new Test();
         Test.Inner i = new Test.Inner();
         System.out.println(i.j);
-        // to test commit in other branches 5678
+        // to test commit in other branches 12345
     }
 }
